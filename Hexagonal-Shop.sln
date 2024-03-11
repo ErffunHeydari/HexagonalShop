@@ -1,6 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hexagonal-Shop", "Hexagonal-Shop\Hexagonal-Shop.csproj", "{F25474E7-EFC7-4AFF-B91C-53C9EAB98DE4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hexagonal-Shop.API", "Hexagonal-Shop.API\Hexagonal-Shop.API.csproj", "{F25474E7-EFC7-4AFF-B91C-53C9EAB98DE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hexagonal-Shop.Core", "Hexagonal-Shop.Core\Hexagonal-Shop.Core.csproj", "{BB102AC7-D83B-4C8A-B25D-1EFECCAB4456}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hexagonal-Shop.Messaging", "Hexagonal-Shop.Messaging\Hexagonal-Shop.Messaging.csproj", "{6C35B963-908C-4E67-A4F0-90E2382328C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hexagonal-Shop.Persistence", "Hexagonal-Shop.Persistence\Hexagonal-Shop.Persistence.csproj", "{D1B7472F-A06A-4BC4-AC93-09D74E00203F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +18,17 @@ Global
 		{F25474E7-EFC7-4AFF-B91C-53C9EAB98DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F25474E7-EFC7-4AFF-B91C-53C9EAB98DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F25474E7-EFC7-4AFF-B91C-53C9EAB98DE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB102AC7-D83B-4C8A-B25D-1EFECCAB4456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB102AC7-D83B-4C8A-B25D-1EFECCAB4456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB102AC7-D83B-4C8A-B25D-1EFECCAB4456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB102AC7-D83B-4C8A-B25D-1EFECCAB4456}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C35B963-908C-4E67-A4F0-90E2382328C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C35B963-908C-4E67-A4F0-90E2382328C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C35B963-908C-4E67-A4F0-90E2382328C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C35B963-908C-4E67-A4F0-90E2382328C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1B7472F-A06A-4BC4-AC93-09D74E00203F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1B7472F-A06A-4BC4-AC93-09D74E00203F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1B7472F-A06A-4BC4-AC93-09D74E00203F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1B7472F-A06A-4BC4-AC93-09D74E00203F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "D:\\Solutions\\DotNetHexagonal\\Hexagonal-Shop\\Hexagonal-Shop\\Hexagonal-Shop.csproj",
-        "projectName": "Hexagonal-Shop",
+        "projectName": "Hexagonal-Shop.API",
         "projectPath": "D:\\Solutions\\DotNetHexagonal\\Hexagonal-Shop\\Hexagonal-Shop\\Hexagonal-Shop.csproj",
         "packagesPath": "C:\\Users\\e.heydari.CADA\\.nuget\\packages\\",
         "outputPath": "D:\\Solutions\\DotNetHexagonal\\Hexagonal-Shop\\Hexagonal-Shop\\obj\\",

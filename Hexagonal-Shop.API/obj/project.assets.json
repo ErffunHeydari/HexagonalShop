@@ -16,11 +16,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Solutions\\DotNetHexagonal\\Hexagonal-Shop\\Hexagonal-Shop\\Hexagonal-Shop.csproj",
-      "projectName": "Hexagonal-Shop",
-      "projectPath": "D:\\Solutions\\DotNetHexagonal\\Hexagonal-Shop\\Hexagonal-Shop\\Hexagonal-Shop.csproj",
+      "projectUniqueName": "D:\\Solutions\\DotNetHexagonal\\Hexagonal-Shop\\Hexagonal-Shop.API\\Hexagonal-Shop.API.csproj",
+      "projectName": "Hexagonal-Shop.API",
+      "projectPath": "D:\\Solutions\\DotNetHexagonal\\Hexagonal-Shop\\Hexagonal-Shop.API\\Hexagonal-Shop.API.csproj",
       "packagesPath": "C:\\Users\\e.heydari.CADA\\.nuget\\packages\\",
-      "outputPath": "D:\\Solutions\\DotNetHexagonal\\Hexagonal-Shop\\Hexagonal-Shop\\obj\\",
+      "outputPath": "D:\\Solutions\\DotNetHexagonal\\Hexagonal-Shop\\Hexagonal-Shop.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -4,8 +4,9 @@
         <TargetFramework>net8.0</TargetFramework>
         <Nullable>enable</Nullable>
         <ImplicitUsings>enable</ImplicitUsings>
-        <RootNamespace>Hexagonal_Shop</RootNamespace>
+        <RootNamespace>Hexagonal-Shop.API</RootNamespace>
         <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
+        <AssemblyName>Hexagonal-Shop.API</AssemblyName>
     </PropertyGroup>
 
     <ItemGroup>
